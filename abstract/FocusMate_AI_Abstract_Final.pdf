@@ -1,0 +1,313 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F1-1 8 0 R
+/F1-2 9 0 R
+/F2 10 0 R
+/F2-0 11 0 R
+/F2-1 12 0 R
+/F2-2 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 4932
+>>
+stream
+q
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 68.3622 764.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL 196.2816 0 Td (ABSTRACT) Tj T* -196.2816 0 Td ET
+Q
+Q
+q
+1 0 0 1 68.3622 737.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 14 Tf 17 TL 175.9986 0 Td (FOCUSMATE AI) Tj T* -175.9986 0 Td ET
+Q
+Q
+q
+1 0 0 1 68.3622 616.6969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 98 Tm /F1 10.5 Tf 15.5 TL .862348 Tw (FocusMate AI is a web-based productivity and study management platform developed to provide) Tj T* 0 Tw .341279 Tw (users with a convenient system for organizing and managing their tasks and daily activities from a) Tj T* 0 Tw 3.715014 Tw (single place. The platform allows users to create, organize, and prioritize tasks based on) Tj T* 0 Tw 2.690426 Tw (deadlines, categories, and importance. It provides features such as task management, focus) Tj T* 0 Tw 1.150965 Tw (sessions, productivity tracking, study planning, and personalized AI-based recommendations. By) Tj T* 0 Tw 2.668618 Tw (bringing multiple productivity-related features together, the project provides an organized and) Tj T* 0 Tw (user-friendly platform for improving time management and maintaining consistent productivity.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.3622 498.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 98 Tm /F1 10.5 Tf 15.5 TL 1.334745 Tw (The application allows users to create and manage tasks, set deadlines and priorities, organize) Tj T* 0 Tw 1.009348 Tw (activities into categories, track completed tasks, and conduct focused study sessions. Users can) Tj T* 0 Tw 5.186562 Tw (view their tasks through an interactive dashboard, monitor their progress, analyze their) Tj T* 0 Tw 1.366156 Tw (productivity, and plan their study activities. The system also helps users break larger goals into) Tj T* 0 Tw 1.935098 Tw (smaller and actionable tasks, making their work more manageable and structured. The simple) Tj T* 0 Tw .423098 Tw (interface enables users to navigate through the platform and access different productivity features) Tj T* 0 Tw (easily.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.3622 395.1969 cm
+q
+BT 1 0 0 1 0 82.5 Tm -0.008448 Tw 15.5 TL /F1 10.5 Tf 0 0 0 rg (The system is initially developed using ) Tj /F2 10.5 Tf (HTML, CSS, and JavaScript) Tj /F1 10.5 Tf (. HTML provides the webpage) Tj T* 0 Tw -0.130682 Tw (structure, including task sections, dashboards, forms, navigation, and productivity information. CSS) Tj T* 0 Tw -0.118802 Tw (creates a clean, responsive, and user-friendly design. JavaScript provides interactive features such) Tj T* 0 Tw 1.641973 Tw (as task creation, task filtering, progress tracking, focus timers, navigation, and other interactive) Tj T* 0 Tw 2.635062 Tw (elements. The system can be further enhanced using backend technologies, databases, and) Tj T* 0 Tw (artificial intelligence to provide personalized productivity recommendations and assistance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.3622 292.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 82.5 Tm /F1 10.5 Tf 15.5 TL .438206 Tw (The proposed system provides a practical digital solution for managing tasks, study activities, and) Tj T* 0 Tw 1.366471 Tw (personal productivity through a single platform. By combining task management, focus tracking,) Tj T* 0 Tw 1.735465 Tw (productivity analysis, study planning, and AI-assisted recommendations, FocusMate AI reduces) Tj T* 0 Tw 1.544848 Tw (the difficulties involved in organizing daily work and helps users develop consistent productivity) Tj T* 0 Tw 3.222107 Tw (habits. The project also demonstrates the practical application of modern web development) Tj T* 0 Tw (technologies for creating a structured and personalized productivity management system.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.3622 274.1969 cm
+Q
+q
+1 0 0 1 68.3622 255.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 10.5 Tf 15 TL (24981A428R \226 T. HASINI) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.3622 236.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 10.5 Tf 15 TL (24981A425V \226 R. GOUTHAM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.3622 217.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 10.5 Tf 15 TL (24981A426B \226 T. BALAMURALI) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.3622 198.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 10.5 Tf 15 TL (24981A427M \226 K. KUSHLA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 68.3622 179.1969 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F2 10.5 Tf 15 TL (24981A421F \226 C. VARSHINI) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 10.5 Tf
+12.6 TL
+ET
+BT
+1 0 0 1 410.1946 94 Tm
+(HEAD OF DEPARTMENT) Tj
+T*
+ET
+BT
+1 0 0 1 471.4516 79 Tm
+(\050CSE\046AIML\051) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+BT
+/F2-1 10.5 Tf
+12.6 TL
+ET
+BT
+1 0 0 1 68.3622 278.7 Tm
+(Team 1) Tj
+T*
+ET
+BT
+1 0 0 1 68.3622 94 Tm
+(Project Guide \072 Mr\056 K\056 Sandeep Kumar) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-2 12 Tf
+14.4 TL
+ET
+BT
+/F2-2 10.5 Tf
+12.6 TL
+ET
+BT
+1 0 0 1 466.472 55.8898 Tm
+(Dr\056 G\056 Sridevi) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000469 00000 n 
+0000005453 00000 n 
+0000005560 00000 n 
+0000005667 00000 n 
+0000005774 00000 n 
+0000005881 00000 n 
+0000005994 00000 n 
+0000006107 00000 n 
+0000006220 00000 n 
+trailer
+<<
+/Size 14
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+6333
+%%EOF

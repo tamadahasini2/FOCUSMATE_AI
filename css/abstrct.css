@@ -1,0 +1,304 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+:root {
+  --purple: #4b2a86;
+  --gold: #e0b43a;
+  --text: #1f1f2e;
+  --lavender: #e8e0f5;
+  --cream: #f8f0d4;
+  --pill: #dde5f1;
+  --bar: #e9dfbd;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #f4f4f6;
+  color: var(--text);
+  min-height: 100vh;
+  overflow-x: hidden;
+  text-align: center;
+  position: relative;
+  padding-bottom: 35px;
+}
+
+/* Decorative bars at the top corners */
+body::before,
+body::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  width: 64px;
+  height: 118px;
+  background: var(--bar);
+  border-radius: 0 0 32px 32px;
+  z-index: 0;
+}
+
+body::before {
+  left: 30px;
+}
+
+body::after {
+  right: 30px;
+}
+
+/* College heading */
+.college-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 14px;
+  padding: 24px 20px 0;
+  position: relative;
+  z-index: 1;
+}
+
+.college-header img {
+  width: 64px;
+  height: 64px;
+  object-fit: contain;
+}
+
+.college-header h1 {
+  font-size: clamp(18px, 2.5vw, 24px);
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  color: #222;
+}
+
+.college-header .city {
+  font-size: 14px;
+  margin-top: 4px;
+}
+
+.college-header .degree {
+  font-size: 12px;
+  margin-top: 2px;
+}
+
+/* Project title and subtitle */
+.project-title {
+  margin-top: 36px;
+  font-size: clamp(26px, 4vw, 32px);
+  font-weight: 500;
+  color: var(--purple);
+  letter-spacing: 0.5px;
+}
+
+.project-subtitle {
+  margin: 10px 16px 0;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2a2a3c;
+}
+
+/* Presented-by label */
+.presented {
+  display: inline-block;
+  margin-top: 24px;
+  padding: 8px 30px;
+  background: var(--pill);
+  border-radius: 8px;
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--purple);
+  letter-spacing: 0.3px;
+}
+
+.presented span {
+  margin: 0 8px;
+}
+
+/* Explore label */
+.explore {
+  margin-top: 18px;
+  font-size: 11px;
+  letter-spacing: 0.5px;
+  color: #333;
+}
+
+/* Action buttons */
+.btn-row {
+  margin-top: 12px;
+  display: flex;
+  justify-content: center;
+  gap: 42px;
+}
+
+.btn {
+  width: 194px;
+  min-height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  border-radius: 6px;
+  font-family: inherit;
+  font-size: 15px;
+  font-weight: 500;
+  text-decoration: none;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.2);
+}
+
+.btn-abstract {
+  background: var(--purple);
+  color: #fff;
+}
+
+.btn-website {
+  background: var(--gold);
+  color: #fff;
+}
+
+/* Information cards */
+.cards {
+  margin: 32px auto 0;
+  width: 94%;
+  max-width: 1000px;
+  display: flex;
+  gap: 34px;
+  justify-content: center;
+  align-items: stretch;
+  position: relative;
+  z-index: 1;
+}
+
+.card {
+  flex: 1;
+  min-width: 0;
+  min-height: 160px;
+  padding: 16px 18px;
+  border-radius: 30px;
+  border: 1px solid var(--purple);
+  border-top: 5px solid var(--purple);
+}
+
+.card.hod,
+.card.members {
+  background: var(--lavender);
+}
+
+.card.guide {
+  background: var(--cream);
+  border-color: var(--gold);
+  border-top-color: var(--gold);
+}
+
+.card h3 {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--purple);
+  line-height: 1.35;
+  margin-bottom: 16px;
+  text-transform: uppercase;
+}
+
+.card p {
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.card.hod p {
+  margin-top: 20px;
+}
+
+.card.members {
+  text-align: center;
+}
+
+.card.members ul {
+  list-style: none;
+  text-align: left;
+  padding-left: 12px;
+}
+
+.card.members li {
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+/* Mobile layout */
+@media (max-width: 768px) {
+  body::before,
+  body::after {
+    width: 35px;
+    height: 75px;
+  }
+
+  body::before {
+    left: 10px;
+  }
+
+  body::after {
+    right: 10px;
+  }
+
+  .college-header {
+    padding-top: 20px;
+    gap: 10px;
+  }
+
+  .college-header img {
+    width: 50px;
+    height: 50px;
+  }
+
+  .college-header h1 {
+    font-size: 17px;
+  }
+
+  .project-title {
+    margin-top: 28px;
+  }
+
+  .presented {
+    max-width: 92%;
+    padding: 8px 16px;
+  }
+
+  .btn-row {
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+  }
+
+  .cards {
+    flex-direction: column;
+    gap: 18px;
+    max-width: 450px;
+  }
+}
+
+@media (max-width: 380px) {
+  .college-header h1 {
+    font-size: 14px;
+  }
+
+  .college-header img {
+    width: 42px;
+    height: 42px;
+  }
+
+  .project-subtitle {
+    font-size: 14px;
+  }
+
+  .card.members li {
+    font-size: 12px;
+  }
+}
+
